@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yarendkaya
-- 👀 I’m interested in Android Development (Kotlin)
-- 🌱 I’m currently learning Kotlin - Android
+- 👀 I’m interested in DevOps.
 - 📫 How to reach me yarendmrky65@gmail.com
 
 <!---
